@@ -1,0 +1,5 @@
+Iniciar Servidor Node.Js
+
+Digitar:
+Cd "Pasta do projeto"
+http-server
